@@ -3,6 +3,12 @@ class HelloWorld {
       String hello = "Hello ";
       int i = 2109+10;
       int j = 10;
-        System.out.println(hello+i+j);
+      if(i>j) {
+        System.out.println("first value is greater than the second");
+      }
+      else {
+        System.out.println("second value is greater than the first");
+      }
+
     }
 }
