@@ -1,6 +1,6 @@
 This is just a text.
 -Some important points
 -Some intermediate points
--Some more important points, this will create a conflict in master
+-Some more important points, this will create a conflict in master, this should
 
 -some more points
